@@ -1,2 +1,11 @@
-# ptichkaburmoldichka.html
-ptichkaburmoldichka
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+Всем привет!!!<br>
+Этот сайт будет про птичку бурмолдичку, которая появилась путем размножения MELLSTROYNOSTY.<br>
+Главные факты о птичке бурмолдичке:<br>
+Она любит вадима пивняка, и тоже желает начать такую же серию как у него:<br>
+<img src="glass-beer-with-bird-table-it_873925-179001.jpg" wigdth="300">  
+</BODY>
+</HTML>
